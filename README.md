@@ -19,7 +19,7 @@ Um cardápio online interativo desenvolvido com **HTML, Tailwind CSS e JavaScrip
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/carda-hamburguer.git
+   git clone https://github.com/GhosT-Exe1/carda-hamburguer.git
 - Abra index.html no navegador.
 - Adicione produtos ao carrinho e confira o valor total.
 - Insira seu endereço e finalize a compra.
